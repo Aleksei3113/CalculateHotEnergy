@@ -1,0 +1,13 @@
+C:\Users\Mango\Desktop\project\RTN\bin\Debug\RTN.exe.config
+C:\Users\Mango\Desktop\project\RTN\bin\Debug\RTN.exe
+C:\Users\Mango\Desktop\project\RTN\bin\Debug\RTN.pdb
+C:\Users\Mango\Desktop\project\RTN\obj\Debug\RTN.csprojAssemblyReference.cache
+C:\Users\Mango\Desktop\project\RTN\obj\Debug\RTN.Properties.Resources.resources
+C:\Users\Mango\Desktop\project\RTN\obj\Debug\RTN.csproj.GenerateResource.cache
+C:\Users\Mango\Desktop\project\RTN\obj\Debug\RTN.exe
+C:\Users\Mango\Desktop\project\RTN\obj\Debug\RTN.pdb
+C:\Users\Mango\Desktop\project\RTN\obj\Debug\RTN.Form1.resources
+C:\Users\Mango\Desktop\project\RTN\bin\Debug\RTN.exe.manifest
+C:\Users\Mango\Desktop\project\RTN\bin\Debug\RTN.application
+C:\Users\Mango\Desktop\project\RTN\obj\Debug\RTN.exe.manifest
+C:\Users\Mango\Desktop\project\RTN\obj\Debug\RTN.application
