@@ -13,6 +13,7 @@ namespace RTN
     public partial class Form1 : Form
     {
         CalculatorRTN CalculateQ;
+        int i = 1;
         public Form1()
         {
             InitializeComponent();
